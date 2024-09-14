@@ -191,7 +191,7 @@ button {
 }
 
 .bg1{
-    background-image: url(bg1.jpeg);
+    background-image: url(bg1.webp);
     height: 55%;
     background-size: cover;
     color: white ;
@@ -216,7 +216,7 @@ button {
 }
 
 .bg2{
-    background-image: url(bg2.jpeg);
+    background-image: url(bg2.webp);
     height: 55%;
     background-size: cover;
     color:white;
@@ -242,7 +242,7 @@ button {
 }
 
 .bg3{
-    background-image: url(bg3.jpeg);
+    background-image: url(bg3.webp);
     height: 55%;
     background-size: cover;
     color:white;
@@ -261,7 +261,7 @@ button {
 }
 
 .bg4{
-    background-image: url(bg4.jpeg);
+    background-image: url(bg4.webp);
     height: 55%;
     background-size: cover;
     color:white;
